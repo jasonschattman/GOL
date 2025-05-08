@@ -1,4 +1,4 @@
-int n = 40;
+int n = 100;
 float blinksPerSecond = 2;
 float padding = 50;
 
